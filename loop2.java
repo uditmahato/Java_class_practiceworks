@@ -6,5 +6,6 @@ public class loop2 {
             System.out.println(i);
             i--;// i--
         }
+        System.out.println("The execution has been terminetted");
     }
 }
