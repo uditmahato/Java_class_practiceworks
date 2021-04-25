@@ -1,5 +1,5 @@
+import java.util.Scanner;
 public class DesArray {
-    public static void main(String[] args) {
         public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
         double[] w= new double[5];
@@ -11,6 +11,5 @@ public class DesArray {
             System.out.println("Weight for " + i + w[i]);
         }
         sc.close();
-    }
     }
 }

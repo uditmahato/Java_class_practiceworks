@@ -37,7 +37,7 @@ public class BoxDemo {
         myBox2.color= "blue";
         myBox2.volume();
         myBox3.length=250000;
-        volm=myBox2.volume1();
+        int volm=myBox2.volume1();
         System.out.println(volm);
         System.out.println("Volume of the box is " + (myBox2.length * myBox2.breadth * myBox2.height) + "cubic meter");
     }

@@ -56,8 +56,6 @@ class Name {
 public class Results {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double ad;
-        double pr;
         Name result = new Name();
         System.out.println("give student details");
         String nam = sc.next();
@@ -67,9 +65,9 @@ public class Results {
 
         result.detail(nam, m1, m2, m3);
 
-        ad = result.sum();
+        result.sum();
 
-        pr = result.percentage();
+        result.percentage();
 
         result.display();
 
