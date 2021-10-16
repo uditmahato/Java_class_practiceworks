@@ -1,6 +1,5 @@
 class Shape {
-    double length;
-    double breadth;
+    double length, breadth;
 
     Shape(double l, double b) {
         length = l;
@@ -26,7 +25,7 @@ class Shape {
     }
 }
 
-public class ConstArea {
+public class ClassWork {
     public static void main(String[] args) {
         Shape a1 = new Shape(7, 6);
         String shape = a1.getSHapeType();

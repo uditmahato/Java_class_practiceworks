@@ -1,0 +1,2 @@
+Name			Age		salary
+Ram			10			5000.000000

@@ -1,0 +1,5 @@
+NAME			MARK1			MARK2			MARK3			TOTAL
+ram			30			40			50			120
+shyam			70			50			20			140
+sita			30			40			50			120
+gita			40			45			32			117
